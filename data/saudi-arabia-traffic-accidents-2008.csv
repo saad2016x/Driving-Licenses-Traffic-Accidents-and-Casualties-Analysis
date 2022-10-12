@@ -1,0 +1,85 @@
+;Unnamed: 0;Year;Region;Indicator;Value;geo_point_2d
+0;0;(2016);Makkah;No. of Casualties - Injured;12383n;21.628962766, 41.2636898334
+1;1;(2016);Eastern Region;No. of Casualties - Dead;1113n;23.2883307307, 50.1478302439
+2;2;(2016);Tabouk;No. of Casualties - Dead;434n;27.90165499, 37.2598581394
+3;3;(2016);Hail;No. of Casualties - Dead;299n;27.400845724, 41.4406960508
+4;4;(2016);Hail;No. of Accidents;10199n;27.400845724, 41.4406960508
+5;5;(2016);Northern Boarder;No. of Casualties - Dead;193n;30.197074783, 41.8171186952
+6;6;(2017);Jazan;No. of Accidents;22161n;17.2072313962, 42.6525807422
+7;7;(2017);Al-Jouf;No. of Accidents;10469n;29.9677445762, 39.5570371172
+8;8;(2017);Total;No. of Casualties - Dead;7489n;
+9;9;(2016);Northern Boarder;No. of Casualties - Injured;631n;30.197074783, 41.8171186952
+10;10;(2016);Jazan;No. of Casualties - Dead;514n;17.2072313962, 42.6525807422
+11;11;(2016);Al-Baaha;No. of Casualties - Injured;1227n;20.1484058503, 41.4665484892
+12;12;(2016);Al-Jouf;No. of Casualties - Injured;920n;29.9677445762, 39.5570371172
+13;13;(2017);Riyadh;No. of Accidents;99925n;23.0814341634, 45.5857512766
+14;14;(2017);Riyadh;No. of Casualties - Injured;4540n;23.0814341634, 45.5857512766
+15;15;(2017);Madinah;No. of Casualties - Dead;580n;24.927534539, 39.4918237173
+16;16;(2017);Qassim;No. of Accidents;22405n;26.1967063704, 43.3429998455
+17;17;(2017);Eastern Region;No. of Accidents;81433n;23.2883307307, 50.1478302439
+18;18;(2017);Tabouk;No. of Accidents;11713n;27.90165499, 37.2598581394
+19;19;(2017);Northern Boarder;No. of Accidents;11540n;30.197074783, 41.8171186952
+20;20;(2017);Jazan;No. of Casualties - Dead;466n;17.2072313962, 42.6525807422
+21;21;(2017);Jazan;No. of Casualties - Injured;2207n;17.2072313962, 42.6525807422
+22;22;(2017);Najran;No. of Casualties - Dead;194n;18.4511003068, 46.8688495726
+23;23;(2017);Al-Jouf;No. of Casualties - Injured;862n;29.9677445762, 39.5570371172
+24;24;(2016);Madinah;No. of Casualties - Dead;822n;24.927534539, 39.4918237173
+25;25;(2016);Eastern Region;No. of Accidents;101619n;23.2883307307, 50.1478302439
+26;26;(2016);Eastern Region;No. of Casualties - Injured;4893n;23.2883307307, 50.1478302439
+27;27;(2016);Jazan;No. of Casualties - Injured;2259n;17.2072313962, 42.6525807422
+28;28;(2016);Al-Jouf;No. of Accidents;10212n;29.9677445762, 39.5570371172
+29;29;(2016);Total;No. of Accidents;533380n;
+30;30;(2016);Total;No. of Casualties - Injured;38120n;
+31;31;(2017);Qassim;No. of Casualties - Injured;1446n;26.1967063704, 43.3429998455
+32;32;(2017);Eastern Region;No. of Casualties - Dead;963n;23.2883307307, 50.1478302439
+33;33;(2016);Asir;No. of Casualties - Dead;983n;19.1387847401, 42.941470036
+34;34;(2016);Asir;No. of Casualties - Injured;2541n;19.1387847401, 42.941470036
+35;35;(2016);Riyadh;No. of Casualties - Dead;1430n;23.0814341634, 45.5857512766
+36;36;(2016);Riyadh;No. of Accidents;141736n;23.0814341634, 45.5857512766
+37;37;(2016);Makkah;No. of Accidents;134838n;21.628962766, 41.2636898334
+38;38;(2016);Madinah;No. of Accidents;14475n;24.927534539, 39.4918237173
+39;39;(2016);Qassim;No. of Accidents;25664n;26.1967063704, 43.3429998455
+40;40;(2016);Qassim;No. of Casualties - Injured;1513n;26.1967063704, 43.3429998455
+41;41;(2016);Tabouk;No. of Accidents;16031n;27.90165499, 37.2598581394
+42;42;(2016);Tabouk;No. of Casualties - Injured;1724n;27.90165499, 37.2598581394
+43;43;(2016);Al-Baaha;No. of Casualties - Dead;185n;20.1484058503, 41.4665484892
+44;44;(2016);Al-Baaha;No. of Accidents;3618n;20.1484058503, 41.4665484892
+45;45;(2016);Al-Jouf;No. of Casualties - Dead;245n;29.9677445762, 39.5570371172
+46;46;(2017);Makkah;No. of Casualties - Injured;10623n;21.628962766, 41.2636898334
+47;47;(2017);Madinah;No. of Casualties - Injured;2917n;24.927534539, 39.4918237173
+48;48;(2017);Asir;No. of Accidents;25245n;19.1387847401, 42.941470036
+49;49;(2017);Tabouk;No. of Casualties - Injured;1243n;27.90165499, 37.2598581394
+50;50;(2017);Hail;No. of Casualties - Dead;265n;27.400845724, 41.4406960508
+51;51;(2017);Northern Boarder;No. of Casualties - Dead;112n;30.197074783, 41.8171186952
+52;52;(2017);Northern Boarder;No. of Casualties - Injured;374n;30.197074783, 41.8171186952
+53;53;(2017);Najran;No. of Accidents;3193n;18.4511003068, 46.8688495726
+54;54;(2017);Al-Jouf;No. of Casualties - Dead;240n;29.9677445762, 39.5570371172
+55;55;(2016);Madinah;No. of Casualties - Injured;4184n;24.927534539, 39.4918237173
+56;56;(2016);Asir;No. of Accidents;32684n;19.1387847401, 42.941470036
+57;57;(2016);Hail;No. of Casualties - Injured;932n;27.400845724, 41.4406960508
+58;58;(2016);Northern Boarder;No. of Accidents;13196n;30.197074783, 41.8171186952
+59;59;(2016);Jazan;No. of Accidents;25873n;17.2072313962, 42.6525807422
+60;60;(2016);Najran;No. of Accidents;3235n;18.4511003068, 46.8688495726
+61;61;(2017);Madinah;No. of Accidents;16070n;24.927534539, 39.4918237173
+62;62;(2017);Qassim;No. of Casualties - Dead;319n;26.1967063704, 43.3429998455
+63;63;(2017);Eastern Region;No. of Casualties - Injured;4073n;23.2883307307, 50.1478302439
+64;64;(2017);Asir;No. of Casualties - Dead;828n;19.1387847401, 42.941470036
+65;65;(2017);Tabouk;No. of Casualties - Dead;348n;27.90165499, 37.2598581394
+66;66;(2017);Hail;No. of Accidents;9379n;27.400845724, 41.4406960508
+67;67;(2017);Najran;No. of Casualties - Injured;766n;18.4511003068, 46.8688495726
+68;68;(2017);Total;No. of Accidents;460488n;
+69;69;(2017);Total;No. of Casualties - Injured;33199n;
+70;70;(2017);Riyadh;No. of Casualties - Dead;1399n;23.0814341634, 45.5857512766
+71;71;(2017);Makkah;No. of Casualties - Dead;1641n;21.628962766, 41.2636898334
+72;72;(2016);Riyadh;No. of Casualties - Injured;4207n;23.0814341634, 45.5857512766
+73;73;(2016);Makkah;No. of Casualties - Dead;2243n;21.628962766, 41.2636898334
+74;74;(2016);Qassim;No. of Casualties - Dead;397n;26.1967063704, 43.3429998455
+75;75;(2016);Najran;No. of Casualties - Dead;173n;18.4511003068, 46.8688495726
+76;76;(2016);Najran;No. of Casualties - Injured;706n;18.4511003068, 46.8688495726
+77;77;(2016);Total;No. of Casualties - Dead;9031n;
+78;78;(2017);Makkah;No. of Accidents;145541n;21.628962766, 41.2636898334
+79;79;(2017);Asir;No. of Casualties - Injured;2368n;19.1387847401, 42.941470036
+80;80;(2017);Hail;No. of Casualties - Injured;773n;27.400845724, 41.4406960508
+81;81;(2017);Al-Baaha;No. of Casualties - Dead;134n;20.1484058503, 41.4665484892
+82;82;(2017);Al-Baaha;No. of Accidents;1414n;20.1484058503, 41.4665484892
+83;83;(2017);Al-Baaha;No. of Casualties - Injured;1007n;20.1484058503, 41.4665484892
